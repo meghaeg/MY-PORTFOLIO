@@ -2,7 +2,7 @@ export type Project = {
   slug: string;
   name: string;
   description: string;
-  role: "Full-Stack Engineer" | "Full-Stack / DevOps Engineer";
+  role: string ;
   duration: string;
   tech: string[];
   image: string;
