@@ -220,7 +220,7 @@ export const projects: Project[] = [
   tech: ["Python", "Flask", "MySQL", "HTML", "CSS", "JavaScript"],
   image: "/f.png",
   github: "#",
-  url: "https://lostfoundportal.onrender.com",
+  live: "https://lostfoundportal.onrender.com",
   problem:
     "Institutions lacked a centralized and efficient method to manage lost belongings, causing delays in item recovery and poor communication between students and administrators.",
   solution:
