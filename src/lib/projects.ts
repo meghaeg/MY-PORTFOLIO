@@ -219,7 +219,7 @@ export const projects: Project[] = [
   duration: "Aug 2025",
   tech: ["Python", "Flask", "MySQL", "HTML", "CSS", "JavaScript"],
   image: "/f.png",
-  github: "#",
+  github: "https://github.com/mothibalaajiv/LostFoundPortal",
   live: "https://lostfoundportal.onrender.com",
   problem:
     "Institutions lacked a centralized and efficient method to manage lost belongings, causing delays in item recovery and poor communication between students and administrators.",
