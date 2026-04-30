@@ -123,6 +123,7 @@ export default function Home() {
             <h2 className="text-2xl font-bold text-black sm:text-3xl">Achievements & Contributions</h2>
             <ol className="mt-5 list-decimal space-y-3 pl-7 text-justify text-sm leading-relaxed text-black sm:text-base">
               <li>Academic Excellence Award (2023-24), Kongu Engineering College - CGPA: 9.36</li>
+              <li>GATE Qualifier (2026) - Score: 28 </li>
               <li>Panchakarma Patient Management System - Pre Finalist of SIH (Sep 2025)</li>
               <li>Centralized Blood Bank Management System - Runner-up in Hackon 2.0 (July 2025)</li>
               <li>AI Smart Gloves for Deaf and Dumb - Runner up in IEEE Paper presentation (March 2024)</li>
