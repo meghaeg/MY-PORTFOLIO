@@ -93,7 +93,6 @@ export default function Home() {
               <ul className="mt-4 list-disc space-y-2.5 pl-5 text-sm leading-relaxed text-black sm:text-base">
                 <li>Java SE 17 Developer - Oracle</li>
                 <li>MongoDB Associate Developer - MongoDB</li>
-                <li>Oracle Cloud Infrastructure DevOps - Oracle</li>
               </ul>
             </Card>
           </div>
