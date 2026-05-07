@@ -119,7 +119,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section>
+        <section id="achievement">
           <Card className="overflow-hidden border border-[#dcdcdc] bg-white p-6 transition duration-200 hover:shadow-lg">
             <h2 className="text-2xl font-bold text-black sm:text-3xl">Achievements & Contributions</h2>
             <ol className="mt-5 list-decimal space-y-3 pl-7 text-justify text-sm leading-relaxed text-black sm:text-base">
