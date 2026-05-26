@@ -165,7 +165,7 @@ export default function Home() {
             <p className="mt-2 text-justify text-sm leading-relaxed text-slate-700">
               I am currently open to freelancing Full-Stack and DevOps engineering work where platform reliability and system design quality are core priorities.
             </p>
-            <p className="mt-2 text-justify text-sm leading-relaxed text-slate-700">Email: meghaeaswaramoorthyr@gmail.com</p>
+            <p className="mt-2 text-justify text-sm leading-relaxed text-slate-700">Email: meghaeg27@gmail.com</p>
             <p className="text-justify text-sm leading-relaxed text-slate-700">Phone: 9025090414</p>
             <p className="text-justify text-sm leading-relaxed text-slate-700">GitHub: https://github.com/meghaeg/</p>
           </Card>
